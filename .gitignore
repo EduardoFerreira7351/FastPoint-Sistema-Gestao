@@ -1,0 +1,8 @@
+bin/
+obj/
+.vscode/
+.idea/
+*.user
+*.pdb
+postgres_data/
+postgres_data_v16/
