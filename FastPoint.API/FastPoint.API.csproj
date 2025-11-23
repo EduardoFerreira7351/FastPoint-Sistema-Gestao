@@ -22,5 +22,4 @@
   <ItemGroup>
     <ProjectReference Include="..\FastPoint.Infrastructure\FastPoint.Infrastructure.csproj" />
   </ItemGroup>
-
 </Project>
